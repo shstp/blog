@@ -1,0 +1,40 @@
+/** Project: Create a fully functional blog **/
+1. Blog table
+        a. title
+        b. body
+        c. slug
+        d. tag, category  -- relation
+        e. featured image
+        f. Related to user. -- relation
+        h. publish at.
+
+2. user
+     . Admin
+     . Editor
+     . user -- user Email confirmation need.
+
+   a. profile
+        i. Father's name
+        ii. Mother's name
+        iii. Birth date
+        iv. profile picture.
+        v. author bio.
+
+
+3. comments
+    .. any one can comments (must be user).
+
+4. report
+     . last month how many blog has been published.
+     . most blog created by a user.
+     . who comments most of the time.
+
+
+
+5. Front end:
+    -- Bootstrap
+    -- mysql
+    -- jQuery
+    -- Laravel framework
+    -- interface for user and Admin and Editor.
+
